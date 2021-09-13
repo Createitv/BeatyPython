@@ -21,3 +21,4 @@ deck = FrenchDeck()
 print(deck[0])
 from random import choice
 print(choice(deck))
+print(deck[:3])
